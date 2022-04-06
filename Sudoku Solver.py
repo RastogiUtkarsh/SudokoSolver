@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.geometry('330x370')
-  
+root.iconbitmap('Path/icon.ico')  
 # Sudoku solver class
 class SudokuSolver():
 
